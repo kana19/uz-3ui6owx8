@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 /* ── GAS設定 ─────────────────────────────────────────────── */
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbwBDHj9-p6ZT6ExXrxF1Q-XwiEkNMPwDc0aAuk7zptivRhWhepvaCDsjaIJd7WHh_h9-A/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbzY9kbj4o8NSpeDDR8uIFMyGL7w1Wuzg70Y031bz97EmqIh2oD9nQ6agg28XaWBxABxZw/exec';
 
 /**
  * GASにGETリクエストを送る（CORS回避のためクエリパラメータで送信）
